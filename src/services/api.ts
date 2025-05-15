@@ -29,4 +29,6 @@ export const deletePost = async (id: number) => {
   return response.data;
 };
 
+// BACKEND API
+
 export default api;
