@@ -29,9 +29,4 @@ export const deletePost = async (id: number) => {
   return response.data;
 };
 
-<<<<<<< HEAD
-=======
-// BACKEND API
-
->>>>>>> d66dd6c7a7053aba92102a31523c5362cca61f69
 export default api;
